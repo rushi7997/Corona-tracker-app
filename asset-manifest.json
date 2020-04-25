@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rushi7997.github.io/Corona-tracker-app/static/css/main.db1b12d5.chunk.css",
+    "main.js": "/rushi7997.github.io/Corona-tracker-app/static/js/main.53cf763c.chunk.js",
+    "main.js.map": "/rushi7997.github.io/Corona-tracker-app/static/js/main.53cf763c.chunk.js.map",
+    "runtime-main.js": "/rushi7997.github.io/Corona-tracker-app/static/js/runtime-main.73ff4a19.js",
+    "runtime-main.js.map": "/rushi7997.github.io/Corona-tracker-app/static/js/runtime-main.73ff4a19.js.map",
+    "static/js/2.1a2575e9.chunk.js": "/rushi7997.github.io/Corona-tracker-app/static/js/2.1a2575e9.chunk.js",
+    "static/js/2.1a2575e9.chunk.js.map": "/rushi7997.github.io/Corona-tracker-app/static/js/2.1a2575e9.chunk.js.map",
+    "index.html": "/rushi7997.github.io/Corona-tracker-app/index.html",
+    "precache-manifest.da698919368ac66f7c416fe7dc034d0d.js": "/rushi7997.github.io/Corona-tracker-app/precache-manifest.da698919368ac66f7c416fe7dc034d0d.js",
+    "service-worker.js": "/rushi7997.github.io/Corona-tracker-app/service-worker.js",
+    "static/css/main.db1b12d5.chunk.css.map": "/rushi7997.github.io/Corona-tracker-app/static/css/main.db1b12d5.chunk.css.map",
+    "static/js/2.1a2575e9.chunk.js.LICENSE.txt": "/rushi7997.github.io/Corona-tracker-app/static/js/2.1a2575e9.chunk.js.LICENSE.txt",
+    "static/media/Covid-19.png": "/rushi7997.github.io/Corona-tracker-app/static/media/Covid-19.d7265326.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73ff4a19.js",
+    "static/js/2.1a2575e9.chunk.js",
+    "static/css/main.db1b12d5.chunk.css",
+    "static/js/main.53cf763c.chunk.js"
+  ]
+}
